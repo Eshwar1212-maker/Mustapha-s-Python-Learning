@@ -1,4 +1,4 @@
-## Pythnon Resources
+## Python Resources
 
 Download Python: https://www.python.org/downloads/
 Download VS Code: https://code.visualstudio.com/download?_exp_download=d53503e735
@@ -7,24 +7,9 @@ Free Book (Automate the Boring Stuff): https://automatetheboringstuff.com/
 Visualize your code: https://pythontutor.com/
 Run Python in browser: https://replit.com/
 
-```markdown
-# 🐍 Python Fundamentals — Homework Packet (Module 1)
-**Beginner Level | Estimated Time: 3–5 hrs | 10 Tasks**
 
----
-
-## 🔗 Essential Resources
-- **Download Python:** https://www.python.org/downloads/
-- **Download VS Code:** https://code.visualstudio.com/
-- **W3Schools Python:** https://www.w3schools.com/python/
-- **Free Book (Automate the Boring Stuff):** https://automatetheboringstuff.com/
-- **Visualize your code:** https://pythontutor.com/
-- **Run Python in browser:** https://replit.com/
-
----
-
-## Task 1 — Hello, World! 👋
-**Topic:** Print Statements | ⭐☆☆☆☆
+## Task 1 — Hello, World! 
+**Topic:** Print Statements
 
 Write a program that prints these 3 lines:
 ```
