@@ -42,7 +42,10 @@ Ask the user for two numbers. Print the result of **addition, subtraction, multi
 
 > 💡 **Bonus:** Also calculate floor division `//` and modulus `%` — research what they do!
 
----
+References:
+
+-https://realpython.com/python-input-output/
+
 
 ## Task 4 — If/Else Decisions 🚦
 **Topic:** Conditionals | 
