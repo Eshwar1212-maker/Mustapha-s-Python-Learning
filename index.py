@@ -1,6 +1,7 @@
 mustapha = {
     "name": "Mustapha",
-    "age": 62
+    "age": 62,
+    "job": "Engineer"
 }
 
 print(mustapha["age"])
