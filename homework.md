@@ -1,7 +1,7 @@
 ## Pythnon Resources
 
 Download Python: https://www.python.org/downloads/
-Download VS Code: https://code.visualstudio.com/
+Download VS Code: https://code.visualstudio.com/download?_exp_download=d53503e735
 W3Schools Python: https://www.w3schools.com/python/
 Free Book (Automate the Boring Stuff): https://automatetheboringstuff.com/
 Visualize your code: https://pythontutor.com/
