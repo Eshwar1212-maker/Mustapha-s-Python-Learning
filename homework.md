@@ -117,6 +117,10 @@ Create a dictionary with your **name, age, city, and occupation**. Then:
 
 > 💡 **Bonus:** Make a list of 3 person dictionaries and loop through, printing each person's name and age.
 
+References:
+
+- https://www.youtube.com/watch?v=daefaLgNkw0
+
 ---
 
 ## Task 9 — File Handling 📁
