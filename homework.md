@@ -71,6 +71,9 @@ Use a loop to print the **multiplication table for 7** (7x1 through 7x10), forma
 ```
 > 💡 **Bonus:** Ask the user which times table they want, then print it for them.
 
+References:
+
+- https://realpython.com/python-for-loop/
 ---
 
 ## Task 6 — Lists 📋
@@ -83,6 +86,10 @@ Create a list of 5 favorite foods. Then:
 - Print the final list and its length with `len()`
 
 > 💡 **Bonus:** Loop through the list and print each item numbered. Example: `1. Pizza`
+
+References:
+
+-https://www.w3schools.com/python/python_ref_list.asp
 
 ---
 
