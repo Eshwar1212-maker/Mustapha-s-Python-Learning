@@ -1,16 +1,9 @@
-## Python Resources
+## Articles to read for HW
 
-Download Python: https://www.python.org/downloads/
+Understand Git and Github: 
 
-Download VS Code: https://code.visualstudio.com/download?_exp_download=d53503e735
-
-W3Schools Python: https://www.w3schools.com/python/
-
-Free Book (Automate the Boring Stuff): https://automatetheboringstuff.com/
-
-Visualize your code: https://pythontutor.com/
-
-Run Python in browser: https://replit.com/
+- https://code.visualstudio.com/docs/sourcecontrol/repos-remotes
+- https://dev.to/jenshaw/collaboration-on-git-and-github-2m3l
 
 # Homework for July
 
